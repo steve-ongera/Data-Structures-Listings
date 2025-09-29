@@ -1,0 +1,15 @@
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\bin\Debug\net8.0\simplel_list.exe
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\bin\Debug\net8.0\simplel_list.deps.json
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\bin\Debug\net8.0\simplel_list.runtimeconfig.json
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\bin\Debug\net8.0\simplel_list.dll
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\bin\Debug\net8.0\simplel_list.pdb
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.AssemblyInfoInputs.cache
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.AssemblyInfo.cs
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.csproj.CoreCompileInputs.cache
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.sourcelink.json
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.dll
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\refint\simplel_list.dll
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.pdb
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\simplel_list.genruntimeconfig.cache
+D:\BACKUP\Complete Projects\Voting_system_RESTfulApis\simplel_list\simplel_list\obj\Debug\net8.0\ref\simplel_list.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\Complete Projects\\Voting_system_RESTfulApis\\simplel_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AC28E9-CEDC-45D5-BA47-183E3DBFE178}|simplel_list\\simplel_list.csproj|d:\\backup\\complete projects\\voting_system_restfulapis\\simplel_list\\simplel_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AC28E9-CEDC-45D5-BA47-183E3DBFE178}|simplel_list\\simplel_list.csproj|solutionrelative:simplel_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\Complete Projects\\Voting_system_RESTfulApis\\simplel_list\\simplel_list\\Program.cs",
+              "RelativeDocumentMoniker": "simplel_list\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\Complete Projects\\Voting_system_RESTfulApis\\simplel_list\\simplel_list\\Program.cs*",
+              "RelativeToolTip": "simplel_list\\Program.cs*",
+              "ViewState": "AgIAAAkAAACAlZmZmZkdwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:32:57.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
